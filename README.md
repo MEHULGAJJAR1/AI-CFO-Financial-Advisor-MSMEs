@@ -7,20 +7,12 @@
 ### 🚀 Live Application
 
 **Frontend / Application:**
-`https://aicfo-rosy.vercel.app/`
+https://aicfo-rosy.vercel.app/
 ## 📸 Application Screenshots
 
 ### 🏠 Dashboard
 
 ![AI CFO Dashboard](images/Dashboard.png)
-
-### 🔐 Login
-
-![AI CFO Login](images/Login.png)
-
-### 🔐 AI 
-
-![AI CFO](images/AI CFO.png)
 
 ## ✨ Features
 
