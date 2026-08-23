@@ -8,6 +8,19 @@
 
 **Frontend / Application:**
 https://aicfo-rosy.vercel.app/
+
+## 🔑 Demo Account
+
+Use the following **dummy account** to test the application:
+
+| Field            | Details             |
+| ---------------- | ------------------- |
+| **Email**        | `me12@gmail.com`    |
+| **Password**     | `Mehul@12345`       |
+| **Account Type** | Demo / Test Account |
+
+> ⚠️ **Note:** These credentials are for demonstration/testing purposes only. Do not use real or production credentials in this public repository.
+
 ## 📸 Application Screenshots
 
 ### 🏠 Dashboard
